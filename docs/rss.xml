@@ -1,5 +1,46 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>垃圾推送</title><link>https://turkey1024.github.io/blog</link><description>如题</description><copyright>垃圾推送</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://s3.bmp.ovh/imgs/2025/09/12/43fd97c8b1de5ad0.jpg</url><title>avatar</title><link>https://turkey1024.github.io/blog</link></image><lastBuildDate>Tue, 07 Apr 2026 16:59:24 +0000</lastBuildDate><managingEditor>垃圾推送</managingEditor><ttl>60</ttl><webMaster>垃圾推送</webMaster><item><title>网易新闻 2026/4/7</title><link>https://turkey1024.github.io/blog/post/wang-yi-xin-wen-%202026-4-7.html</link><description># 📰 网易新闻 2026年4月7日星期二
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>垃圾推送</title><link>https://turkey1024.github.io/blog</link><description>如题</description><copyright>垃圾推送</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://s3.bmp.ovh/imgs/2025/09/12/43fd97c8b1de5ad0.jpg</url><title>avatar</title><link>https://turkey1024.github.io/blog</link></image><lastBuildDate>Wed, 08 Apr 2026 11:01:12 +0000</lastBuildDate><managingEditor>垃圾推送</managingEditor><ttl>60</ttl><webMaster>垃圾推送</webMaster><item><title>知乎日报 2026-04-08</title><link>https://turkey1024.github.io/blog/post/zhi-hu-ri-bao-%202026-04-08.html</link><description># 知乎日报 2026-04-08
+
+## 1. Python 中的 range 函数为什么要设计成「左闭右开」的样子，这是有啥用意吗？
+**作者**: AI解码师
+**阅读时间**: 2 分钟阅读
+
+![图片](https://picx.zhimg.com/v2-02eda8d74cf83dc571effc6c62a922d1.jpg?source=8673f162)
+
+[阅读原文](https://daily.zhihu.com/story/9788744)
+
+---
+
+## 2. 为什么墨子会觉得音乐是像精神鸦片一样的东西？
+**作者**: 狗子
+**阅读时间**: 2 分钟阅读
+
+![图片](https://pic1.zhimg.com/v2-e8a69a0468dc78b333e50c8607494f36.jpg?source=8673f162)
+
+[阅读原文](https://daily.zhihu.com/story/9788752)
+
+---
+
+## 3. 川西和瑞士的区别在哪里？
+**作者**: dust
+**阅读时间**: 3 分钟阅读
+
+![图片](https://picx.zhimg.com/v2-68c31b68f914a036a1393465d44b0db9.jpg?source=8673f162)
+
+[阅读原文](https://daily.zhihu.com/story/9788758)
+
+---
+
+## 4. 瞎扯 · 如何正确地吐槽
+**作者**: VOL.3878
+
+![图片](https://picx.zhimg.com/v2-e1b119397fa7af0f3932991e8a01d3e7.jpg?source=8673f162)
+
+[阅读原文](https://daily.zhihu.com/story/9788759)
+
+---
+
+*自动生成于 2026/4/8 19:00:46*。</description><guid isPermaLink="true">https://turkey1024.github.io/blog/post/zhi-hu-ri-bao-%202026-04-08.html</guid><pubDate>Wed, 08 Apr 2026 11:00:46 +0000</pubDate></item><item><title>网易新闻 2026/4/7</title><link>https://turkey1024.github.io/blog/post/wang-yi-xin-wen-%202026-4-7.html</link><description># 📰 网易新闻 2026年4月7日星期二
 
 &gt; 自动生成于 2026/4/7 19:00:33
 
